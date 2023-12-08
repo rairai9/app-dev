@@ -11,7 +11,7 @@ My first repository
 
 ### Initial D
   
-> Two mountain road racers, Nakazato and Takahashi, challenged each other to find the best racers, and defeat them in "battles". Nakazato was surprisingly defeated by an old Toyota Trueno AE86 (Corolla in the US) one night, and he searched for the person who defeated him, which lead him to the Speedstars, a local team. But the car who beat him was actually driven by a local Tofu shop owner's son, Takumi Fujiwara, who had unknowingly perfected the art of mountain racing through daily deliveries of tofu. Takumi was able to defeat Nakazato again, showing that he was no fluke.
+> Two mountain road racers, Nakazato and Takahashi, challenged each other to find the best racers, and defeat them in "battles". Nakazato was surprisingly defeated by an old Toyota Trueno AE86 (Corolla in the US) one night, and he searched for the person who defeated him, which lead him to the Speedstars, a local team. But the car that beat him was actually driven by a local Tofu shop owner's son, Takumi Fujiwara, who had unknowingly perfected the art of mountain racing through daily deliveries of tofu. Takumi was able to defeat Nakazato again, showing that he was no fluke.
 
 ### The Gap Series
 
