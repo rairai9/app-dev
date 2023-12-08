@@ -15,7 +15,7 @@ My first repository
 
 ### The Gap Series
 
-> Long after Sam first came to Mon's rescue when they were kids, Sam is unambiguously Mon's idol. In order to be near her, Mon gets a job working under her. When they finally meet again at the office, Mon is surprised by her icy exterior, so different from the image she'd had of her and what she herself wants to be. Mon and Sam aren't just different in demeanour; they stand apart in class and between them is a gap of eight years.
+> Long after Sam first came to Mon's rescue when they were kids, Sam is unambiguously Mon's idol. In order to be near her, Mon gets a job working under her. When they finally meet again at the office, Mon is surprised by her icy exterior, so different from the image she'd had of her and what she herself wants to be. Mon and Sam aren't just different in demeanor; they stand apart in class and between them is a gap of eight years.
 
 ### Your Name
 
