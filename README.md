@@ -23,4 +23,4 @@ My first repository
 
 ### Haikyu
 
-> Haikyu follows the story of Shoyo Hinata, who becomes obsessed with volleyball after watching the Karasuno High School playing in Nationals on television. During middle school, he joins the volleyball club and suffers a crushing defeat at the hands of his rival Tobio Kageyama.
+> Haikyu follows the story of Shoyo Hinata, who becomes obsessed with volleyball after watching the Karasuno High School playing in Nationals on television. During middle school, he joins the volleyball club and suffers a crushing defeat at the hands of his rival Tobio Kageyama..
